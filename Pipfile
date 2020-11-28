@@ -10,6 +10,7 @@ jupyter = "*"
 apache-beam = "*"
 pandas = "*"
 requests = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.8"
